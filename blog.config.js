@@ -342,3 +342,4 @@ const BLOG = {
 }
 
 module.exports = BLOG
+<meta name="google-site-verification" content="sWV3uVMpqQ5trWkUgrt4uybBk6Ne9uWr76PakGNQtAk" />
